@@ -6,7 +6,7 @@ import GradientText from './GradientText';
 const PROJECTS = [
   { title: 'Portfolio Website',    desc: 'Website portfolio pribadi dengan React, TypeScript, Three.js, dan GSAP. Animasi smooth dan pixel-perfect.', tags: ['React','TypeScript','Three.js','GSAP'], year: '2024', color: '#B19EEF', link: '#' },
   { title: 'To-Do App',           desc: 'Aplikasi manajemen tugas dengan drag & drop, filter, dan dark mode. Dibangun dengan React dan localStorage.', tags: ['React','JavaScript','TailwindCSS'], year: '2024', color: '#5227FF', link: 'https://todoapp-indol-five.vercel.app' },
-  { title: 'Landing Page Sekolah',desc: 'Website modern untuk Party Agency PATS dengan animasi desain responsif.', tags: ['React','TypeScript','Three.js','GSAP'], year: '2024', color: '#38bdf8', link: 'https://pats-ashen.vercel.app' },
+  { title: 'Party Agency',desc: 'Website modern untuk Party Agency PATS dengan animasi desain responsif.', tags: ['React','TypeScript','Three.js','GSAP'], year: '2024', color: '#38bdf8', link: 'https://pats-ashen.vercel.app' },
   { title: 'Weather App',         desc: 'Aplikasi cuaca real-time mengambil data dari OpenWeather API dengan UI interaktif dan responsif.', tags: ['React','API','TailwindCSS'], year: '2023', color: '#FF9FFC', link: '#' },
   { title: 'Python Calculator',   desc: 'Kalkulator ilmiah dengan Python yang mendukung operasi matematika kompleks dan antarmuka GUI.', tags: ['Python','Tkinter'], year: '2023', color: '#4b8bbe', link: '#' },
   { title: 'Quiz App',            desc: 'Aplikasi kuis interaktif dengan timer, skor real-time, dan leaderboard. Cocok untuk belajar bersama.', tags: ['JavaScript','HTML5','CSS3'], year: '2023', color: '#88ce02', link: '#' },
